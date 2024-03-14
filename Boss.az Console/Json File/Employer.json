@@ -1,0 +1,30 @@
+[
+  {
+    "Vacancies": [
+      {
+        "WorkName": "Programist",
+        "AgeMin": 18,
+        "AgeMax": 25,
+        "SalaryMax": 1200,
+        "Requirements": "sfdddddddddddd",
+        "JobDescription": "sfffffffffffff",
+        "SpecializationName": "Programming",
+        "EducationDegree": "Higher",
+        "Experience": "1 il",
+        "KnowLanguages": [ { "AZE": "middle" } ],
+        "PhoneNumber": "0505738147",
+        "ViewCount": 1,
+        "WorkCity": "Baku",
+        "Id": "bbaea230-d5e8-47d3-a6d0-7f7f0a235bb1"
+      }
+    ],
+    "Name": "Oktay",
+    "Surname": "ddfdfgdf",
+    "Age": 25,
+    "City": "bakoi",
+    "Phone": "0505738147",
+    "Email": "ok@gmail.com",
+    "Password": "o1",
+    "Id": "be81e665-7f9b-4d4d-97e2-0c35cd13d1ec"
+  }
+]
