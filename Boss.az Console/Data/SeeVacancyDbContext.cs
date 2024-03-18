@@ -4,7 +4,7 @@ namespace Boss.az.Data;
 
 internal class SeeVacancyDbContext
 {
-    string fileName = @"C:\Users\user\source\Repos\Boss.az Console\Boss.az Console\Json File\VacancyLog.json";
+    string fileName = @"C:\Users\user\source\Repos\Boss.az\Boss.az Console\Json File\VacancyLog.json";
     public SeeVacancyDbContext()
     {
         if (File.Exists(fileName))

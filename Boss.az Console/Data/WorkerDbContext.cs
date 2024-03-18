@@ -4,7 +4,7 @@ using  Boss.az.Worker;
 
 internal class WorkerDbContext
 {
-    string fileName = @"C:\Users\user\source\Repos\Boss.az Console\Boss.az Console\Json File\Worker.json";
+    string fileName = @"C:\Users\user\source\Repos\Boss.az\Boss.az Console\Json File\Worker.json";
     public WorkerDbContext()
     {
         if (File.Exists(fileName))

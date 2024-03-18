@@ -4,7 +4,7 @@ namespace Boss.az.Data;
 
 internal class SeeCvDbContext
 {
-    string fileName = @"C:\Users\user\source\Repos\Boss.az Console\Boss.az Console\Json File\CvLog.json";
+    string fileName = @"C:\Users\user\source\Repos\Boss.az\Boss.az Console\Json File\CvLog.json";
     public SeeCvDbContext()
     {
         if (File.Exists(fileName))
